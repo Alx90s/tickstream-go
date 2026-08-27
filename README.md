@@ -110,3 +110,13 @@ is worth reporting.
 ## Docs
 
 <https://tick-stream.xyz/docs/sdks> · machine-readable: <https://tick-stream.xyz/llms-full.txt>
+
+## Links
+
+- **SDK documentation** — https://tick-stream.xyz/docs/sdks
+- **API reference** — https://tick-stream.xyz/docs
+- **Pricing and plans** — https://tick-stream.xyz/pricing
+- **Free GEX levels** — https://tick-stream.xyz/gex
+
+Built by [tickstream](https://tick-stream.xyz) — CME futures, options chains,
+Greeks and dealer gamma over one API.
